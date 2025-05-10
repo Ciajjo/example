@@ -1,4 +1,5 @@
 #include <iostream>
+  (use "git restore <file>..." to discard changes in working directory)
 using namespace std;
 
 void sort(int arr[], int size)
